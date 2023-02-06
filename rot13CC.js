@@ -13,6 +13,3 @@ function rot13(str) {
   }
   return newStr;
 }
-
-console.log(rot13("SERR CVMMN!"));
-console.log(rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT."));
